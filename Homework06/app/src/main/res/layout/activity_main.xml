@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/materialToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:title="LiveTimeDialogFragment"
+        app:titleTextColor="@color/white" />
+
+    <Button
+        android:id="@+id/date_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10px"
+        android:backgroundTint="#152238"
+        android:text="SET DATE OF BIRTH"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/time_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10px"
+        android:backgroundTint="#152238"
+        android:text="SET TIME OF BIRTH"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/date_time_display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Living up Time:"
+        android:textSize="30sp"
+        android:layout_margin="10px"/>
+
+    <Button
+        android:id="@+id/exit_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10px"
+        android:backgroundTint="#152238"
+        android:text="EXIT"
+        android:textColor="@color/white" />
+
+
+</LinearLayout>
