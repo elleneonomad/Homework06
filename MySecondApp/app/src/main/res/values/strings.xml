@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySecondApp</string>
+    <string name="text1">Celcuis:</string>
+    <string name="input" />
+    <string name="button_text">Converter</string>
+    <string name="edit_text">0</string>
+    <string name="text02">0</string>
+</resources>

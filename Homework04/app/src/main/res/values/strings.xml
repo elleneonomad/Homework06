@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework04</string>
+    <string name="getDetails">Get Details</string>
+    <string name="result">No Information Provided yet</string>
+    <string name="title">Input the Details\n</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+</resources>

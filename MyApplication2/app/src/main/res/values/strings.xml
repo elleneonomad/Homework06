@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">A FEW FRUIT ITEMS</string>
+    <string name="food_items">FOOD</string>
+    <string name="food_button">FRUIT</string>
+    <string name="vegetable_button">VEGETABLE</string>
+    <string name="drink_button">DRINK</string>
+    <string name="fruit">FRUIT</string>
+    <string name="strawberry">STRABERRY</string>
+</resources>

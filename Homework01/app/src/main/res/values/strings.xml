@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework01</string>
+    <string name="text1">MyFirstHelloApp</string>
+    <string name="text2">CAMBODIA</string>
+    <string name="text3">PHNOM PENH</string>
+    <string name="mypic">pic1</string>
+    <string name="map">map</string>
+    <string name="text4">MyFirstHelloApp</string>
+</resources>
